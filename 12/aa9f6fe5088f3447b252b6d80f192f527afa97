@@ -1,0 +1,19 @@
+skills/web-design-guidelines/SKILL.md
+  s_313a4269958756::t_8e096bf0b10dcc 4
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "12aa9f6fe5088f3447b252b6d80f192f527afa97",
+  "prompts": {},
+  "sessions": {
+    "s_313a4269958756": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_e7a2b1ad3ffe9c3p2grZZh2aVG",
+        "model": "unknown"
+      },
+      "human_author": "Oleg Kuibar <oleg.kuibar@floatcard.com>"
+    }
+  }
+}
